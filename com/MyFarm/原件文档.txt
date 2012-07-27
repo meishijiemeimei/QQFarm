@@ -1,0 +1,59 @@
+房子 house
+栅栏 fence
+狗窝 kennel
+未开垦田地 Wasteland
+旱地 FarmlandG
+湿地 FarmlandS
+扩建 Reclaim
+提示信息框 TalkBoxMy1
+==============工具栏=================
+可拖动屏幕 Cursor
+可用来翻地 ButtonHoe
+已经购买的物品 ButtonSeed
+用来浇水 ButtonWater
+清除地里的杂草 ButtonHook
+清除地里的害虫 ButtonPesticide
+用来收获果实 ButtonHand
+包袱背景 PackBarBg
+包内物品背景 ItemBg
+==============头部=================
+背景 HeadBg
+头像 TipBg//代替
+经验条 ExpBar
+雨天 Rain
+晴天 Sunny
+夜晚 Night
+装饰 ButtonDecorate
+商店 ButtonShop
+仓库 ButtonWarehouse
+我的农场 ButtonFarm
+===============鼠标===============
+选择 CursorArrow
+采摘 CursorHand
+除草 CursorHook
+杀虫 CursorPesticide
+浇水 CursorWater
+翻地 CursorHoe
+==============作物==================
+草莓 StrawberrySeed 等级6 成长时间 12
+白萝卜 RadishSeed 等级1 成长时间 2    Radish
+胡萝卜 CarrotSeed 等级2 成长时间 4    Carrot
+玉米 MaizeSeed 等级5 成长时间 10      Maize
+土豆 PotatoSeed 等级3 成长时间 6      Potato
+西红柿 TomatoSeed 等级4 成长时间 8     Tomato
+茄子 MelongenaSeed 等级4 成长时间 8    Melongena
+豌豆 PeaSeed 等级4 成长时间 8          Pea
+辣椒 ChiliSeed 等级3 成长时间 6        Chili
+南瓜 PumpkinSeed 等级7 成长时间 14     Pumpkin
+苹果 AppleSeed 等级1 成长时间 2        Apple
+葡萄 GrapeSeed 等级1 成长时间 2        Grape
+桃子 PeachSeed 等级2 成长时间 4        Peach
+西瓜 WatermelonSeed 等级2 成长时间 4    Watermelon
+香蕉 BananaSeed 等级3 成长时间 6       Banana
+橘子 OrangeSeed 等级7 成长时间 14       Orange
+石榴 PomegranateSeed 等级8 成长时间 16    Pomegranate
+菠萝 PineappleSeed 等级4 成长时间 8     Pineapple
+柚子 PomeloSeed 等级5 成长时间 10     Pomelo
+椰子 CoconutSeed 等级9 成长时间 18    Coconut
+
+种子 seed

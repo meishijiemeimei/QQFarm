@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<item object="StrawberrySeed" name="草莓" information="预计所得1400" price="130" type="一季作物" maturation="24" experience="26" rank="6" yield="24" prices="18"></item>
+<item object="RadishSeed" name="白萝卜" information="预计所得600" price="80" type="一季作物" maturation="14" experience="10" rank="1" yield="24" prices="18"></item>
+<item object="CarrotSeed" name="胡萝卜" information="预计所得850" price="90" type="一季作物" maturation="16" experience="12" rank="2" yield="25" prices="20"></item>
+<item object="MaizeSeed" name="玉米" information="预计所得1050" price="105" type="一季作物" maturation="19" experience="22" rank="5" yield="20" prices="28"></item>
+<item object="PotatoSeed" name="土豆" information="预计所得1250" price="120" type="一季作物" maturation="17" experience="14" rank="3" yield="22" prices="22"></item>
+<item object="TomatoSeed" name="西红柿" information="预计所得1150" price="110" type="一季作物" maturation="18" experience="18" rank="4" yield="26" prices="24"></item>
+<item object="MelongenaSeed" name="茄子" information="预计所得1300" price="120" type="一季作物" maturation="20" experience="20" rank="4" yield="26" prices="24"></item>
+<item object="PeaSeed" name="豌豆" information="预计所得1300" price="120" type="一季作物" maturation="20" experience="20" rank="4" yield="26" prices="24"></item>
+<item object="ChiliSeed" name="辣椒" information="预计所得1000" price="110" type="一季作物" maturation="16" experience="16" rank="3" yield="22" prices="22"></item>
+<item object="PumpkinSeed" name="南瓜" information="预计所得4000" price="300" type="二季作物" maturation="22" experience="28" rank="7" yield="28" prices="30"></item>
+<item object="AppleSeed" name="苹果" information="预计所得750" price="75" type="一季作物" maturation="20" experience="12" rank="1" yield="24" prices="18"></item>
+<item object="GrapeSeed" name="葡萄" information="预计所得800" price="70" type="一季作物" maturation="17" experience="11" rank="1" yield="24" prices="18"></item>
+<item object="PeachSeed" name="桃子" information="预计所得1200" price="85" type="一季作物" maturation="16" experience="14" rank="2" yield="25" prices="20"></item>
+<item object="WatermelonSeed" name="西瓜" information="预计所得1100" price="90" type="一季作物" maturation="19" experience="15" rank="2" yield="25" prices="20"></item>
+<item object="BananaSeed" name="香蕉" information="预计所得2200" price="95" type="一季作物" maturation="20" experience="18" rank="3" yield="22" prices="22"></item>
+<item object="OrangeSeed" name="橘子" information="预计所得6800" price="160" type="二季作物" maturation="24" experience="26" rank="7" yield="28" prices="30"></item>
+<item object="PomegranateSeed" name="石榴" information="预计所得7500" price="170" type="三季作物" maturation="27" experience="20" rank="8" yield="30" prices="32"></item>
+<item object="PineappleSeed" name="菠萝" information="预计所得2400" price="110" type="一季作物" maturation="28" experience="18" rank="4" yield="26" prices="24"></item>
+<item object="PomeloSeed" name="柚子" information="预计所得2540" price="120" type="二季作物" maturation="22" experience="32" rank="5" yield="20" prices="28"></item>
+<item object="CoconutSeed" name="椰子" information="预计所得8050" price="190" type="三季作物" maturation="30" experience="28" rank="9" yield="30" prices="35"></item>
+</data>

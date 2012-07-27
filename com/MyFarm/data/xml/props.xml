@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<item object="Fertilizer" name="普通化肥" information="能加速作物成长" price="500" type="化肥" ><![CDATA[能加速农作物的生长速度，提高2小时成长!]]></item>
+<item object="FertilizerFast" name="快速化肥" information="能加速作物成长" price="800" type="化肥" ><![CDATA[能加速农作物的生长速度，提高3.5小时成长!]]></item>
+<item object="FertilizerVeryFast" name="急速化肥" information="能加速作物成长" price="1000" type="化肥" ><![CDATA[能加速农作物的生长速度，提高5小时成长!]]></item>
+<item object="FertilizerFastP" name="快速化肥5+2礼包" information="能加速作物成长" price="4000" type="化肥" ><![CDATA[能加速农作物的生长速度，提高3.5小时成长!]]></item>
+<item object="FertilizerVeryFastP" name="急速化肥5+2礼包" information="能加速作物成长" price="5000" type="化肥" ><![CDATA[能加速农作物的生长速度，提高5小时成长!]]></item>
+<item object="ShopDogFood" name="普通狗粮" information="狗的食物" price="300" type="狗粮" ><![CDATA[能使狗更加精神，抓住偷菜贼的几率20%！]]></item>
+<item object="ShopDogFood7Days" name="普通狗粮5+2礼包" information="狗的食物" price="1500" type="狗粮" ><![CDATA[能使狗更加精神，抓住偷菜贼的几率20%！]]></item>
+</data>

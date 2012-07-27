@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<items name="草莓" seed="StrawberrySeed" crop="Strawberry" time="43200" experience="26" yield="24" price="18" ></items>
+<items name="白萝卜" seed="RadishSeed" crop="Radish" time="7" experience="100" yield="24" price="1800" ></items>
+<items name="胡萝卜" seed="CarrotSeed" crop="Carrot" time="14400" experience="12" yield="25" price="20" ></items>
+<items name="玉米" seed="MaizeSeed" crop="Maize" time="36000" experience="22" yield="20" price="28" ></items>
+<items name="土豆" seed="PotatoSeed" crop="Potato" time="21600" experience="14" yield="22" price="22" ></items>
+<items name="西红柿" seed="TomatoSeed" crop="Tomato" time="28800" experience="18" yield="26" price="24" ></items>
+<items name="茄子" seed="MelongenaSeed" crop="Melongena" time="28800" experience="20" yield="26" price="24" ></items>
+<items name="豌豆" seed="PeaSeed" crop="Pea" time="28800" experience="20" yield="26" price="24" ></items>
+<items name="辣椒" seed="ChiliSeed" crop="Chili" time="21600" experience="16" yield="22" price="22" ></items>
+<items name="南瓜" seed="PumpkinSeed" crop="Pumpkin" time="50400" experience="28" yield="28" price="30" ></items>
+<items name="苹果" seed="AppleSeed" crop="Apple" time="7200" experience="12" yield="24" price="18" ></items>
+<items name="葡萄" seed="GrapeSeed" crop="Grape" time="7200" experience="11" yield="24" price="18" ></items>
+<items name="桃子" seed="PeachSeed" crop="Peach" time="14400" experience="14" yield="25" price="20" ></items>
+<items name="西瓜" seed="WatermelonSeed" crop="Watermelon" time="14400" experience="15" yield="25" price="20" ></items>
+<items name="香蕉" seed="BananaSeed" crop="Banana" time="21600" experience="18" yield="22" price="22" ></items>
+<items name="橘子" seed="OrangeSeed" crop="Orange" time="50400" experience="26" yield="28" price="30" ></items>
+<items name="石榴" seed="PomegranateSeed" crop="Pomegranate" time="57600" experience="20" yield="30" price="32" ></items>
+<items name="菠萝" seed="PineappleSeed" crop="Pineapple" time="28800" experience="18" yield="26" price="24" ></items>
+<items name="柚子" seed="PomeloSeed" crop="Pomelo" time="36" experience="32" yield="26" price="28" ></items>
+<items name="椰子" seed="CoconutSeed" crop="Coconut" time="64800" experience="28" yield="20" price="35" ></items>
+</data>
